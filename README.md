@@ -1,2 +1,3 @@
-# my-portofolio-project
-Rama wisesa portofolio
+# wisesahomework.github.io
+this is my portfolio, welcome!
+z
